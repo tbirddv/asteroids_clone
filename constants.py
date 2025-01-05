@@ -14,3 +14,6 @@ PLAYER_SPEED = 200 # pixels per second
 
 PLAYER_SHOOT_SPEED = 500 # pixels per second
 PLAYER_SHOOT_COOLDOWN = 0.3 # seconds
+
+SCORE_PER_SIZE = 1
+SPLIT_SPEED_MULTIPLIER = 1.2
